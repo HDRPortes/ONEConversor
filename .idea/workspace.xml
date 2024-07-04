@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="444863ff-9c86-4c40-abfe-fdb8e4ad8c8e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iYlWdnQoNVQnvN6w1fv3lI9uaK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExchangeRateAPI.executor": "Run",
+    "Application.GsonTester.executor": "Run",
+    "Application.com.alura.conversor.client.ExchangeRateAPI.executor": "Run",
+    "Application.rincipalConBusqueda.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hecto/Downloads/tmp/jar_files/parser-1.0.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alura.conversor.client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alura.conversor.client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.alura.conversor.client.ExchangeRateAPI">
+    <configuration name="ExchangeRateAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.screenmatch.principal.ExchangeRateAPI" />
+      <module name="ONEConversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.conversor.principal.GsonTester" />
+      <module name="ONEConversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.conversor.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.alura.conversor.client.ExchangeRateAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.conversor.client.ExchangeRateAPI" />
+      <module name="ONEConversor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.conversor.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.alura.conversor.client.ExchangeRateAPI" />
+        <item itemvalue="Application.ExchangeRateAPI" />
+        <item itemvalue="Application.GsonTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="444863ff-9c86-4c40-abfe-fdb8e4ad8c8e" name="Changes" comment="" />
+      <created>1719675423336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719675423336</updated>
+    </task>
+    <servers />
+  </component>
+</project>
